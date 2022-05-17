@@ -22,8 +22,6 @@
   (novo-cliente {:nome "MariaClara", :cpf "a-cpf", :email "mc@somewhere.com"}))
 
 
-(defmacro)
-
 (defn string-to-long
   "Given a string with digits and, optionally, spaces,
   returns a long parsed from the string with the spaces
